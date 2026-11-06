@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Minha página PHP</title>
+    <title>Minha página PHP CAT</title>
 </head>
 <body>
     <h1>
